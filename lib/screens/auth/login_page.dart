@@ -35,7 +35,7 @@ class LoginPage extends StatelessWidget {
             right: 0,
             left: 0,
             child: Container(
-              padding: EdgeInsets.symmetric(
+              padding: const EdgeInsets.symmetric(
                 horizontal: 20,
                 vertical: 10,
               ),
